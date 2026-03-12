@@ -251,8 +251,8 @@ class _LoginScreenState extends State<LoginScreen> {
   }
 
   void _validarCredenciales(BuildContext context) {
-    const String emailValido = 'ventas2@eplastmx.com';
-    const String passwordValida = 'eplast2026';
+    const String emailValido = '//Agregar correo para acceder//';
+    const String passwordValida = '//Agregar contraseña para ingresar//';
 
     if (_emailCtrl.text == emailValido && _passCtrl.text == passwordValida) {
       if (context.mounted) {
