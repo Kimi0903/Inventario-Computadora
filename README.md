@@ -1,6 +1,7 @@
 # inventario_flutter
 
 Este inventario su funcion es agregar Pcs de empresa o lugar donde quieran obtener un control de cuantas hay en el trabajo , como tambien quien usa el equip y poder agregar la informacion del usuario quien agregue su nombre y correo con sus contraseñas  ademas requerir la informacion del sistema detalles como la ram que usa entre otros detalles.
+en la aplicación puede exportar la informacion recabada de todos los usuarios agregados con sus equipo en un documento xsl .
 
 ## Getting Started
 
